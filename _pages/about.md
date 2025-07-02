@@ -50,7 +50,7 @@ Association for the Advancement of Artificial Intelligence (<span style="color:d
 **IEEE Transactions on Multimedia** (<span style="color:darkred">**TMM**</span>) \[**IF** = <span style="color:darkred">**9.7**</span>, **JCR** <span style="color:darkred">**Top 2.7%**</span>\] **(Accepted)**
 
 # 🎖 Honors and Awards
-- *2023.12* KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
+- *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
 
 # 📖 Educations
 - *2024.03 - Present*, M.S. in Artificial Intelligence, Kyunghee University.
