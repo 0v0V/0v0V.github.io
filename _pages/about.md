@@ -40,7 +40,7 @@ Association for the Advancement of Artificial Intelligence (<span style="color:d
 
 * ### UC-DVC: A Unified Framework and Dataset for User-Controllable Dense Video Captioning <br>
 **Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-**In Preparation**
+<span style="color:darkred">**In Preparation**</span>
 
 
 ## International Journal
