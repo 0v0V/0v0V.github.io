@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Seungho Shin"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Seungho Shin College"
-  location         : "Beijing, China"
+  avatar           : "images/profile.jpg"
+  bio              : "Kyung Hee University"
+  location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LNYugtYAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "ssh9918@khu.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
