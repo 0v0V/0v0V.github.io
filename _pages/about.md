@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a M.S. student at Kyung Hee University, advised by Prof. Jung Uk Kim.  
-I currently conduct research at the Visual Artificial Intelligence Lab (VAI Lab), where I focus on **Dense Video Captioning** and **Multispectral Pedestrian Detection**.
+I currently conduct research at the Visual Artificial Intelligence Lab ([VAI Lab](https://visualai.khu.ac.kr/home))
 
-My work aims to address key challenges in multimodal learning and data-centric AI. In particular, I explore how to generate fine-grained, controllable video captions using large vision-language models (MLLMs + LLMs), and how to design robust detection systems under limited and sparse labels in multispectral data.
+My work aims to address key challenges in multimodal learning and data-centric AI. In particular, I explore user-controllable video captions using large vision-language models (MLLMs + LLMs), and how to design robust detection systems under incomplete labels in multispectral data.
 
 Drawing from these experiences, I aim to contribute to data-efficient AI systems that perform reliably in real-world conditions.
 
 # 🔥 News
-2025.05:  🎉🎉 One paper got accepted to IEEE TMM
+2025.05:  🎉🎉 One paper got accepted to IEEE TMM <br>
 2024.12:  🎉🎉 One paper got accepted to AAAI 2025
 
 # 📝 Publications 
