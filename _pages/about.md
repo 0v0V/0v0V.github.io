@@ -26,8 +26,8 @@ In particular, I explore **user-controllable video captions** using large vision
 
 
 # 🔥 News
-2025.05:  🎉🎉 One paper got accepted to IEEE TMM <br>
-2024.12:  🎉🎉 One paper got accepted to AAAI 2025
+2025.05:  🎉🎉 One paper got accepted to <span style="color:darkred">**IEEE TMM**</span> <br>
+2024.12:  🎉🎉 One paper got accepted to <span style="color:darkred">**AAAI 2025**</span>
 
 # 📝 Publications 
 
