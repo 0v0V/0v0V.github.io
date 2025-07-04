@@ -47,7 +47,7 @@ Association for the Advancement of Artificial Intelligence (<span style="color:d
 
 * ### SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection <br>
 **Seungho Shin**\*, Chan Lee\*,  Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, </i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
+IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, <i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
 \] (Accepted)
 
 # 🎖 Honors and Awards
