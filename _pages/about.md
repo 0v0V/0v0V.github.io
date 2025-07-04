@@ -47,7 +47,8 @@ Association for the Advancement of Artificial Intelligence (<span style="color:d
 
 * ### SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection <br>
 **Seungho Shin**\*, Chan Lee\*,  Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[IF = <span style="color:darkred">**9.7**</span>, JCR Top <span style="color:darkred">**2.7%**</span>\] (Accepted)
+IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, </i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
+\] (Accepted)
 
 # 🎖 Honors and Awards
 - *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
