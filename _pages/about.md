@@ -35,7 +35,7 @@ In particular, I explore **user-controllable video captions** using large vision
 
 * ### Multispectral Pedestrian Detection with Sparsely Annotated Label <br>
 Chan Lee\*, **Seungho Shin**\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-Association for the Advancement of Artificial Intelligence (<span style="color:darkred">**AAAI**</span>) 2025, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32472)
+The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:darkred">**AAAI**</span>) 2025, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32472)
 
 
 * ### UC-DVC: A Unified Framework and Dataset for User-Controllable Dense Video Captioning <br>
