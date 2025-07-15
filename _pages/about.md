@@ -20,9 +20,9 @@ redirect_from:
 
 I am a M.S. Student in [VAI Lab](https://visualai.khu.ac.kr/home) at Kyunghee University, advised by Prof. Jung Uk Kim.
 
-My work aims to address key challenges in **multimodal learning** and **data-centric AI**. 
+My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
 
-In particular, I explore **user-controllable video captions** using large vision-language models (MLLMs + LLMs), and how to design **robust detection systems under incomplete labels** in multispectral data.
+In particular, I explore <i>**user-controllable video captions**<i> using large vision-language models (MLLMs + LLMs), and how to design <i>**robust detection systems under incomplete labels**<i> in multispectral data.
 
 
 # 🔥 News
