@@ -64,6 +64,11 @@ IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<
 - Web/Python Programming (Fall 2024)
 - Artificial Intelligence and Ethics (Spring 2024)
 
+# 🧾 Academic Activities
+
+## [Reviews]
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
 ---
 
 
