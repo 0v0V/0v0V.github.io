@@ -26,7 +26,7 @@ In particular, I explore <i>**user-controllable video captions**<i> using large 
 
 
 # 🔥 News
-2025.08: 🎉🎉 Received M.S. degree from Kyung Hee University!</span> <br>
+2025.08: 🎉🎉 Received M.S. degree from Kyung Hee University!<br>
 2025.05:  🎉🎉 One paper got accepted to <span style="color:darkred">**IEEE TMM**</span> <br>
 2024.12:  🎉🎉 One paper got accepted to <span style="color:darkred">**AAAI 2025**</span>
 
@@ -51,7 +51,7 @@ The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:d
 IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, <i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
 \] (Accepted)
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
 
 # 📖 Educations
