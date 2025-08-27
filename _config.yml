@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Seungho Shin"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "0v0V/0v0V.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Seungho Shin"
-  avatar           : "images/profile3.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/profile3.jpg"
+  bio              : "M.S.@KHU"
   location         : "Yongin, Korea"
   employer         :
   pubmed           : 
