@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently received my M.S. from the [VAI Lab](https://visualai.khu.ac.kr/home) at the Graduate School of AI, Kyung Hee University, where I was advised by Prof. Jung Uk Kim. I also hold a B.S. in Software Convergence from the Kyunghee University.
+I  received my M.S. from the [VAI Lab](https://visualai.khu.ac.kr/home) at the Graduate School of AI, Kyung Hee University, where I was advised by Prof. Jung Uk Kim. I also hold a B.S. in Software Convergence from the Kyung Hee University.
 
 My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
 
@@ -25,6 +25,7 @@ In particular, I explore <i>**user-controllable video captions**<i> using large 
 
 
 # 🔥 News
+2025.08: 🎉🎉 Received M.S. degree from Kyung Hee University!</span> <br>
 2025.05:  🎉🎉 One paper got accepted to <span style="color:darkred">**IEEE TMM**</span> <br>
 2024.12:  🎉🎉 One paper got accepted to <span style="color:darkred">**AAAI 2025**</span>
 
@@ -53,7 +54,7 @@ IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<
 - *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
 
 # 📖 Educations
-- *2024.03 - Present*, M.S. in Artificial Intelligence, Kyunghee University.
+- *2024.03 - 2025.08*, M.S. in Artificial Intelligence, Kyunghee University.
 - *2018.03 - 2024.02*, B.S. in Software Convergence, Kyunghee University.
 
 # 🧑‍🏫 Teaching
