@@ -1,4 +1,4 @@
-q---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,57 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a M.S. Student in [VAI Lab](https://visualai.khu.ac.kr/home) at Kyunghee University, advised by Prof. Jung Uk Kim.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
-
-In particular, I explore <i>**user-controllable video captions**<i> using large vision-language models (MLLMs + LLMs), and how to design <i>**robust detection systems under incomplete labels**<i> in multispectral data.
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-2025.05:  🎉🎉 One paper got accepted to <span style="color:darkred">**IEEE TMM**</span> <br>
-2024.12:  🎉🎉 One paper got accepted to <span style="color:darkred">**AAAI 2025**</span>
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-## International Conference
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-* ### Multispectral Pedestrian Detection with Sparsely Annotated Label <br>
-Chan Lee\*, **Seungho Shin**\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:darkred">**AAAI**</span>) 2025, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32472)
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-* ### UC-DVC: A Unified Framework and Dataset for User-Controllable Dense Video Captioning <br>
-**Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-<span style="color:darkred">**In Preparation**</span>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
-
-## International Journal
-
-* ### SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection <br>
-**Seungho Shin**\*, Chan Lee\*,  Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, <i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
-\] (Accepted)
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.03 - 2025.08*, M.S. in Artificial Intelligence, Kyunghee University.
-- *2018.03 - 2024.02*, B.S. in Software Convergence, Kyunghee University.
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 🧑‍🏫 Teaching
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-## Teaching Assistant
-- Software Engineering (Spring 2025)
-- Web/Python Programming (Fall 2024)
-- Artificial Intelligence and Ethics (Spring 2024)
-
-# 🧾 Academic Activities
-
-## [Reviewer for:]
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
----
-
-
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
