@@ -41,7 +41,7 @@ The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:d
 
 * ### UC-DVC: A Unified Framework and Dataset for User-Controllable Dense Video Captioning <br>
 **Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
-<span style="color:darkred">**In Preparation**</span>
+<span style="color:darkred">**To be submitted to ICLR 2026**</span>
 
 
 ## International Journal
