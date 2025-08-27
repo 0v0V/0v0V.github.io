@@ -55,8 +55,8 @@ IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<
 - *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
 
 # 📖 Educations
-- *2024.03 - 2025.08*, M.S. in Artificial Intelligence, Kyunghee University.
-- *2018.03 - 2024.02*, B.S. in Software Convergence, Kyunghee University.
+- *2024.03 - 2025.08*, M.S. in Artificial Intelligence, Kyung Hee University.
+- *2018.03 - 2024.02*, B.S. in Software Convergence, Kyung Hee University.
 
 # 🧑‍🏫 Teaching
 
