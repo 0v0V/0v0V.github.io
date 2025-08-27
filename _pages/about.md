@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I  received my M.S. from the [VAI Lab](https://visualai.khu.ac.kr/home) at the Graduate School of AI, Kyung Hee University, where I was advised by Prof. Jung Uk Kim. I also hold a B.S. in Software Convergence from the Kyung Hee University.
+I  received my M.S. from the [VAI Lab](https://visualai.khu.ac.kr/home) at the Graduate School of AI, Kyung Hee University, where Prof. Jung Uk Kim was my advisor. <br>
+I also received a B.S. in Software Convergence from the Kyung Hee University.
 
 My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
 
