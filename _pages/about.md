@@ -39,7 +39,7 @@ Chan Lee\*, **Seungho Shin**\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contributi
 The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:darkred">**AAAI**</span>) 2025, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32472)
 
 
-* ### UC-DVC: A Unified Framework and Dataset for User-Controllable Dense Video Captioning <br>
+* ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
 **Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park, Jung Uk Kim (*Equal contribution) <br>
 <span style="color:darkred">**Submitted to ICLR 2026**</span> [[paper]](https://openreview.net/forum?id=rMgSxzqBuk)
 
