@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Seungho Shin"
-description              : My Portfolio Site
+description              :
 baseurl                  : "https://drive.google.com/file/d/1vF9Npl58S3H09WhYLVBVXg6vlfX7glH4/view?usp=sharing" # the subpath of your site, e.g. /blog
 repository               : "0v0V/0v0V.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Seungho Shin"
   avatar           : "images/profile3.jpg"
-  bio              : "M.S.@KHU"
+  bio              : "Research Intern@KAIST"
   location         : "Yongin, Korea"
   employer         :
   pubmed           : 

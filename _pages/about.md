@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I  received my M.S. from the [VAI Lab](https://visualai.khu.ac.kr/home) at the Graduate School of AI, Kyung Hee University, where Prof. Jung Uk Kim was my advisor. <br>
-I also received a B.S. in Software Convergence from the Kyung Hee University.
+Currenty, I am a research intern at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr) (MLILAB) at KAIST. Before joining KAIST, I received my Master’s degree from the [Visual Artificial Intelligence Lab](https://visualai.khu.ac.kr/home) (VisualAILAB) at Kyung Hee University in 2025, advised by Prof. [Jung Uk Kim](https://sites.google.com/view/jungukkim). I received my B.S. in Software Convergence from the Kyung Hee University in 2024.
 
 My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
 
-In particular, I explore <i>**user-controllable video captions**<i> using large vision-language models (MLLMs + LLMs), and how to design <i>**robust detection systems under incomplete labels**<i> in multispectral data.
-
+Specifically, I focus on building user-friendly and real-world applicable multimodal systems.
 
 # 🔥 News
 2025.08: 🎉🎉 Received M.S. degree from Kyung Hee University!<br>
