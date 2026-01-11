@@ -33,19 +33,19 @@ Specifically, I focus on building user-friendly and real-world applicable multim
 ## International Conference
 
 * ### Multispectral Pedestrian Detection with Sparsely Annotated Label <br>
-Chan Lee\*, **Seungho Shin**\*, Gyeong-Moon Park†, Jung Uk Kim† (*Equal contribution, †Corresponding author) <br>
+Chan Lee\*, **Seungho Shin**\*, Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
 The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:darkred">**AAAI**</span>) 2025, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32472)
 
 
 * ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
-**Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park†, Jung Uk Kim† (*Equal contribution, †Corresponding author) <br>
+**Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
 <span style="color:darkred">**Submitted to ICLR 2026**</span> [[paper]](https://openreview.net/forum?id=rMgSxzqBuk)
 
 
 ## International Journal
 
 * ### SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection <br>
-**Seungho Shin**\*, Chan Lee\*,  Gyeong-Moon Park†, Jung Uk Kim† (*Equal contribution, †Corresponding author) <br>
+**Seungho Shin**\*, Chan Lee\*,  Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
 IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, <i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
 \] [[paper]](https://ieeexplore.ieee.org/document/11303909)
 
