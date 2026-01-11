@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currenty, I am a research intern at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr) (MLILAB) at KAIST. Before joining KAIST, I received my Master’s degree from the [Visual Artificial Intelligence Lab](https://visualai.khu.ac.kr/home) (VAILAB) at Kyung Hee University in 2025, advised by Prof. [Jung Uk Kim](https://sites.google.com/view/jungukkim). I received my B.S. in Software Convergence from the Kyung Hee University in 2024.
+Currenty, I am a research intern at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr) (MLILAB) at KAIST. Before joining KAIST, I received my Master’s degree from the [Visual Artificial Intelligence Lab](https://visualai.khu.ac.kr/home) (VAILAB) at Kyung Hee University in 2025, advised by Prof. [Jung Uk Kim](https://sites.google.com/view/jungukkim). I also worked with Prof. [Gyeong-Moon Park](https://gyeongmoon.github.io/) through collaborative research. I received my B.S. in Software Convergence from the Kyung Hee University in 2024.
 
 My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
 
