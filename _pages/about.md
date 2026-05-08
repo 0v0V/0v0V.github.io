@@ -54,7 +54,7 @@ IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<
 
 * ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
 Joowon Kim\*, **Seungho Shin**\*, Joonhyung Park, Eunho Yang<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
-[[project]](https://joow0n-kim.github.io/collabvr-project-page/)
+<span style="color:darkred">**Submitted to Neurips 2026**</span> [[project]](https://joow0n-kim.github.io/collabvr-project-page/)
 
 
 # 🏆 Honors and Awards
