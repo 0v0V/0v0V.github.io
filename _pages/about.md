@@ -30,16 +30,13 @@ Specifically, I focus on building user-friendly and real-world applicable multim
 
 # 📝 Publications 
 
+
+
 ## International Conference
 
 * ### Multispectral Pedestrian Detection with Sparsely Annotated Label <br>
 Chan Lee\*, **Seungho Shin**\*, Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
 The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:darkred">**AAAI**</span>) 2025, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32472)
-
-
-* ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
-**Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
-<span style="color:darkred">**Submitted to ICLR 2026**</span> [[paper]](https://openreview.net/forum?id=rMgSxzqBuk)
 
 
 ## International Journal
@@ -48,6 +45,17 @@ The 39th Annual AAAI Conference on Artificial Intelligence (<span style="color:d
 **Seungho Shin**\*, Chan Lee\*,  Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
 IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<i>IF</i> = <span style="color:darkred"><b>9.7</b></span>, <i>JCR Top</i> <span style="color:darkred"><b>2.7%</b></span>
 \] [[paper]](https://ieeexplore.ieee.org/document/11303909)
+
+## Preprint
+
+* ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
+**Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
+<span style="color:darkred">**Submitted to ECCV 2026**</span> [[paper]](https://openreview.net/pdf?id=rMgSxzqBuk)
+
+* ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
+Joowon Kim\*, **Seungho Shin**\*, Joonhyung Park, Eunho Yang<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
+<span style="color:darkred">**Submitted to Neurips 2026**</span> [[project]](https://joow0n-kim.github.io/collabvr-project-page/)
+
 
 # 🏆 Honors and Awards
 - *2023.12*: KHUGGLE 2023 (from AI Factory, Kyung Hee University, IITP), 10-Shot Image Generation, (<span style="color:darkred">**3rd place**</span>)
