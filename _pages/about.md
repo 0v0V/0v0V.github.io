@@ -50,7 +50,7 @@ IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<
 
 * ### User-Controllable Dense Video Captioning: A Large-Scale Benchmark and Framework <br>
 **Seungho Shin**\*, Sung Jin Um\*, Gyeong-Moon Park<sup>†</sup>, Jung Uk Kim<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
-<span style="color:darkred">**Submitted to ECCV 2026**</span> [[paper]](https://openreview.net/pdf?id=rMgSxzqBuk)
+[[paper]](https://openreview.net/pdf?id=rMgSxzqBuk)
 
 * ### CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models <br>
 Joowon Kim\*, **Seungho Shin**\*, Joonhyung Park, Eunho Yang<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
