@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currenty, I am a research intern at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr) (MLILAB) at KAIST. Before joining KAIST, I received my Master’s degree from the [Visual Artificial Intelligence Lab](https://visualai.khu.ac.kr/home) (VAILAB) at Kyung Hee University in 2025, advised by Prof. [Jung Uk Kim](https://sites.google.com/view/jungukkim). I also worked with Prof. [Gyeong-Moon Park](https://gyeongmoon.github.io/) through collaborative research. I received my B.S. in Software Convergence from the Kyung Hee University in 2024.
+Currently, I am a research intern at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr) (MLILAB) at KAIST. Before joining KAIST, I received my Master’s degree from the [Visual Artificial Intelligence Lab](https://visualai.khu.ac.kr/home) (VAILAB) at Kyung Hee University in 2025, advised by Prof. [Jung Uk Kim](https://sites.google.com/view/jungukkim). I also worked with Prof. [Gyeong-Moon Park](https://gyeongmoon.github.io/) through collaborative research. I received my B.S. in Software Convergence from the Kyung Hee University in 2024.
 
-My work aims to address key challenges in <i>**multimodal learning**<i> and <i>**data-centric AI**<i>. 
+My work aims to address key challenges in <i>**multimodal learning**</i> and <i>**data-centric AI**</i>. 
 
 Specifically, I focus on building user-friendly and real-world applicable multimodal systems.
 
 # 🔥 News
 2025.08: 🎉🎉 Received M.S. degree from Kyung Hee University!<br>
-2025.05:  🎉🎉 One paper got accepted to <span style="color:darkred">**IEEE TMM**</span> <br>
-2024.12:  🎉🎉 One paper got accepted to <span style="color:darkred">**AAAI 2025**</span>
+2025.05: 🎉🎉 One paper got accepted to <span style="color:darkred">**IEEE TMM**</span> <br>
+2024.12: 🎉🎉 One paper got accepted to <span style="color:darkred">**AAAI 2025**</span>
 
 # 📝 Publications 
 
@@ -54,7 +54,7 @@ IEEE Transactions on Multimedia (<span style="color:darkred">**TMM**</span>) \[<
 
 * ### CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models <br>
 Joowon Kim\*, **Seungho Shin**\*, Joonhyung Park, Eunho Yang<sup>†</sup> (*Equal contribution, <sup>†</sup>Corresponding author) <br>
-[[project]](https://joow0n-kim.github.io/collabvr-project-page/)
+[[paper]](https://arxiv.org/pdf/2605.08735) [[project]](https://joow0n-kim.github.io/collabvr-project-page/)
 
 
 # 🏆 Honors and Awards
@@ -74,6 +74,11 @@ Joowon Kim\*, **Seungho Shin**\*, Joonhyung Park, Eunho Yang<sup>†</sup> (*Equ
 # 🧾 Academic Services
 
 ## Reviewer
+
+### Conference
+- NeurIPS 2026
+
+### Journal
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 ---
