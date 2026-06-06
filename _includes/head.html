@@ -5,6 +5,32 @@
 
 {% seo %}
 
+<!-- Structured data (invisible to visitors; helps search engines identify the person) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name }}",
+  "url": "{{ '/' | absolute_url }}",
+  "image": "{{ '/assets/img/' | append: site.profile_image | absolute_url }}",
+  "email": "mailto:{{ site.author.email }}",
+  "jobTitle": "Research Intern",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Machine Learning and Intelligence Lab (MLILAB), KAIST"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Kyung Hee University"
+  },
+  "sameAs": [
+    "https://scholar.google.com/citations?user={{ site.author.scholar }}",
+    "https://github.com/{{ site.author.github }}",
+    "https://www.linkedin.com/in/{{ site.author.linkedin }}"
+  ]
+}
+</script>
+
 <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/kaist_logo.svg' | relative_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
