@@ -169,8 +169,8 @@ strong {
 
   &.scrolled {
     background: var(--bg-chrome);
-    backdrop-filter: saturate(180%) blur(8px);
-    -webkit-backdrop-filter: saturate(180%) blur(8px);
+    backdrop-filter: #{"saturate(180%) blur(8px)"};
+    -webkit-backdrop-filter: #{"saturate(180%) blur(8px)"};
     box-shadow: var(--shadow);
 
     .container {
@@ -541,7 +541,7 @@ body.is-home .site-title {
 }
 
 .container--post {
-  max-width: min(var(--max-w), 48rem);
+  max-width: #{"min(var(--max-w), 48rem)"};
 }
 
 .post-header {
@@ -1087,8 +1087,8 @@ div.pub-bib {
 // ============================================================
 @media (max-width: 720px) {
   .container {
-    padding-left: max(16px, env(safe-area-inset-left, 0px));
-    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-left: #{"max(16px, env(safe-area-inset-left, 0px))"};
+    padding-right: #{"max(16px, env(safe-area-inset-right, 0px))"};
   }
 
   .site-header .container {
