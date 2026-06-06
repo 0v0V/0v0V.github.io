@@ -12,9 +12,10 @@ author:
   github: 0v0V
   linkedin: khu-seungho-shin
   scholar: LNYugtYAAAAJ
-  cv: "https://drive.google.com/file/d/1vF9Npl58S3H09WhYLVBVXg6vlfX7glH4/view?usp=sharing"
+  # CV link removed per request. Uncomment the next line to show the CV icon again.
+  # cv: "https://drive.google.com/file/d/1vF9Npl58S3H09WhYLVBVXg6vlfX7glH4/view?usp=sharing"
 
-profile_image: profile2.jpg
+profile_image: profile2-crop.jpg
 
 markdown: kramdown
 highlighter: rouge
