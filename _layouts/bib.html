@@ -27,12 +27,12 @@
           {% assign venue_theme = 'icml' %}
         {% elsif ab == 'aaai' %}
           {% assign venue_theme = 'aaai' %}
-        {% elsif ab == 'tmm' %}
+        {% elsif ab == 'tmm' or ab == 'ieeetmm' %}
           {% assign venue_theme = 'tmm' %}
         {% elsif ab == 'preprint' %}
           {% assign venue_theme = 'preprint' %}
         {% endif %}
-        <span class="pub-venue{% if venue_theme != '' %} venue-{{ venue_theme }}{% endif %}">{% if ab == 'preprint' %}{{ entry.abbr }}{% else %}{{ entry.abbr }} {{ entry.year }}{% endif %}</span>
+        <span class="pub-venue{% if venue_theme != '' %} venue-{{ venue_theme }}{% endif %}">{% if ab == 'preprint' or entry.category == 'journal' %}{{ entry.abbr }}{% else %}{{ entry.abbr }} {{ entry.year }}{% endif %}</span>
         {% else %}
         <span class="pub-venue">{{ entry.year }}</span>
         {% endif %}
