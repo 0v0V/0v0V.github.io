@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<section class="hero">
+<section class="hero" id="about">
   <div class="container hero-grid">
     <div class="hero-heading">
       <h1>{% include author-name-styled.html %}</h1>
@@ -33,12 +33,16 @@ title: Home
   </div>
 </section>
 
-<section class="publications-section" id="selected-publications">
+<section class="publications-section" id="publications">
   <div class="container">
-    <h2 class="section-heading">Selected Publications</h2>
+    <h2 class="section-heading">Publications</h2>
     <p class="pub-legend"><sup>*</sup>Equal contribution&nbsp;&nbsp;<sup>&dagger;</sup>Corresponding author</p>
-    {% bibliography --group_by none --query @*[selected=true]* %}
-    <p class="view-all"><a href="{{ '/publications/' | relative_url }}">View all publications &rarr;</a></p>
+    <h3 class="pub-group-title">International Conference</h3>
+    {% bibliography --group_by none --query @*[category=conference]* %}
+    <h3 class="pub-group-title">International Journal</h3>
+    {% bibliography --group_by none --query @*[category=journal]* %}
+    <h3 class="pub-group-title">Preprint</h3>
+    {% bibliography --group_by none --query @*[category=preprint]* %}
   </div>
 </section>
 

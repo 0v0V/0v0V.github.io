@@ -2,8 +2,13 @@
   <div class="container">
     <a href="{{ '/' | relative_url }}" class="site-title">{% include author-name-styled.html %}</a>
     <nav class="site-nav" id="site-nav">
-      <a href="{{ '/' | relative_url }}" class="nav-link{% if page.url == '/' %} active{% endif %}">About</a>
-      <a href="{{ '/publications/' | relative_url }}" class="nav-link{% if page.url == '/publications/' %} active{% endif %}">Publications</a>
+      <a href="{{ '/' | relative_url }}#about" class="nav-link">About</a>
+      <a href="{{ '/' | relative_url }}#news" class="nav-link">News</a>
+      <a href="{{ '/' | relative_url }}#publications" class="nav-link">Publications</a>
+      <a href="{{ '/' | relative_url }}#education" class="nav-link">Education</a>
+      <a href="{{ '/' | relative_url }}#honors" class="nav-link">Awards</a>
+      <a href="{{ '/' | relative_url }}#teaching" class="nav-link">Teaching</a>
+      <a href="{{ '/' | relative_url }}#academic-services" class="nav-link">Services</a>
     </nav>
     <div class="header-actions">
       <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">

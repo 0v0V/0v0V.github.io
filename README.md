@@ -42,7 +42,7 @@ Open `http://127.0.0.1:4000`.
 
 This site uses plugins (`jekyll-scholar`) that the default GitHub Pages build
 does not support, so it is built with GitHub Actions
-(`.github/workflows/deploy.yml`).
+(`.github/workflows/jekyll.yml`).
 
 **One-time setup:** on GitHub, go to **Settings → Pages → Build and deployment →
 Source** and select **GitHub Actions**. After that, every push to `main`

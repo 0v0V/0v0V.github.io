@@ -1285,6 +1285,29 @@ div.pub-bib {
   margin-bottom: 10px;
 }
 
+// Single-page section anchors land below the fixed header
+main section {
+  scroll-margin-top: calc(var(--header-h) + 10px);
+}
+
+// Publication type subheadings (Conference / Journal / Preprint)
+.pub-group-title {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 30px 0 0;
+}
+
+.pub-group-title:first-of-type {
+  margin-top: 8px;
+}
+
+// Tighten header nav spacing to fit the per-section quick links
+.site-nav {
+  gap: 18px;
+}
+
 .detail-list {
   list-style: none;
   margin: 0;
