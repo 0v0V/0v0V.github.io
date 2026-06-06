@@ -43,8 +43,8 @@ sass:
 
 # Set enable_google_analytics to true and fill google_analytics with your
 # Measurement ID (e.g. G-XXXXXXXXXX) if you want analytics.
-enable_google_analytics: false
-google_analytics:
+enable_google_analytics: true
+google_analytics: G-574HXDJ2K7
 
 scholar:
   style: apa
