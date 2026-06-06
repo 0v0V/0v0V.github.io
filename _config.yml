@@ -1,164 +1,69 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+title: Seungho Shin
+description: "Seungho Shin — research intern at MLILAB, KAIST. Multimodal learning and data-centric AI."
+url: https://0v0v.github.io
+baseurl: ""
 
-# Site Settings
-title                    : "Seungho Shin"
-description              :
-baseurl                  : "https://drive.google.com/file/d/1vF9Npl58S3H09WhYLVBVXg6vlfX7glH4/view?usp=sharing" # the subpath of your site, e.g. /blog
-repository               : "0v0V/0v0V.github.io"
-google_scholar_stats_use_cdn : true
-
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
-# Site Author
 author:
-  name             : "Seungho Shin"
-  avatar           : "images/profile3.jpg"
-  bio              : "Research Intern@KAIST"
-  location         : "Yongin, Korea"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LNYugtYAAAAJ&h"
-  email            : "ssh9918@khu.ac.kr"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 0v0V # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : khu-seungho-shin # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: Seungho Shin
+  first_name: Seungho
+  last_name: Shin
+  korean_name: "신승호"
+  email: ssh9918@khu.ac.kr
+  github: 0v0V
+  linkedin: khu-seungho-shin
+  scholar: LNYugtYAAAAJ
+  cv: "https://drive.google.com/file/d/1vF9Npl58S3H09WhYLVBVXg6vlfX7glH4/view?usp=sharing"
 
+profile_image: profile4.jpg
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .github
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+permalink: pretty
 
-
-# Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll/scholar
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules
+  - images
 
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
+# Set enable_google_analytics to true and fill google_analytics with your
+# Measurement ID (e.g. G-XXXXXXXXXX) if you want analytics.
+enable_google_analytics: false
+google_analytics:
 
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+scholar:
+  style: apa
+  locale: en
+  source: _data
+  bibliography: papers.bib
+  bibliography_template: bib
+  query: "@*"
+  sort_by: none
+  group_by: year
+  group_order: descending
+  bibliography_class: pub-bib
+  bibliography_list_tag: div
+  bibliography_item_tag: div
+  last_name: [Shin]
+  first_name: [Seungho]
+  replace_strings: true
+  join_strings: true
+  details_link: false
+  bibtex_filters:
+    - latex
+    - smallcaps
+    - superscript
