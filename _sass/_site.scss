@@ -848,7 +848,7 @@ div.pub-bib {
 
 .pub-card {
   display: grid;
-  grid-template-columns: 148px 1fr;
+  grid-template-columns: 240px 1fr;
   gap: 28px;
   padding: 20px 0;
   background: transparent;
@@ -858,7 +858,7 @@ div.pub-bib {
   align-self: start;
   box-sizing: border-box;
   width: 100%;
-  height: 92px;
+  height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1130,7 +1130,7 @@ div.pub-bib {
 
   .pub-thumb {
     width: 100%;
-    height: 140px;
+    height: 200px;
   }
 
   .news-item {
