@@ -122,10 +122,7 @@
       }, 2200);
     }
 
-    function copyEmail(text) {
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        return navigator.clipboard.writeText(text);
-      }
+    function legacyCopy(text) {
       return new Promise(function (resolve, reject) {
         try {
           var ta = document.createElement("textarea");
@@ -135,13 +132,25 @@
           ta.style.top = "-9999px";
           document.body.appendChild(ta);
           ta.select();
-          document.execCommand("copy");
+          ta.setSelectionRange(0, text.length);
+          var ok = document.execCommand("copy");
           document.body.removeChild(ta);
-          resolve();
+          ok ? resolve() : reject(new Error("copy command rejected"));
         } catch (e) {
           reject(e);
         }
       });
+    }
+
+    function copyEmail(text) {
+      // Prefer the async Clipboard API; fall back to execCommand when it is
+      // unavailable or rejected (older browsers, blocked permissions, etc.).
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        return navigator.clipboard.writeText(text).catch(function () {
+          return legacyCopy(text);
+        });
+      }
+      return legacyCopy(text);
     }
 
     emailIcons.forEach(function (icon) {
