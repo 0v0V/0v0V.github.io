@@ -432,6 +432,41 @@ body.is-home .site-title {
   }
 }
 
+// "Email copied" bubble, positioned just above the click point by JS.
+.copy-toast {
+  position: fixed;
+  z-index: 1000;
+  padding: 7px 12px;
+  border-radius: 8px;
+  background: var(--text);
+  color: var(--bg);
+  font-family: var(--font);
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  box-shadow: var(--shadow-lg);
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, calc(-100% - 12px)) scale(0.96);
+  transform-origin: bottom center;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+
+  &.copy-toast--below {
+    transform: translate(-50%, 12px) scale(0.96);
+    transform-origin: top center;
+  }
+
+  &.copy-toast--show {
+    opacity: 1;
+    transform: translate(-50%, calc(-100% - 12px)) scale(1);
+
+    &.copy-toast--below {
+      transform: translate(-50%, 12px) scale(1);
+    }
+  }
+}
+
 // ============================================================
 // Section headings
 // ============================================================
