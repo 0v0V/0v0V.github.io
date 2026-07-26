@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+
+  <title>NeurIPS 2026 Discussion Ends</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: 100%;
+      min-height: 100%;
+      margin: 0;
+      padding: 0;
+      background: transparent;
+      font-family:
+        Inter,
+        Pretendard,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+    }
+
+    body {
+      padding: 8px;
+    }
+
+    .countdown-widget {
+      width: 100%;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 18px 14px 16px;
+      overflow: hidden;
+
+      background: #192936;
+      border-radius: 8px;
+    }
+
+    .countdown-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .time-card {
+      min-height: 155px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      border-radius: 8px;
+      color: #173e78;
+    }
+
+    .days {
+      background: #d93957;
+    }
+
+    .hours {
+      background: #d2deec;
+    }
+
+    .minutes {
+      background: #347bc5;
+    }
+
+    .seconds {
+      background: #dda51e;
+    }
+
+    .number {
+      margin: 0;
+      font-size: clamp(42px, 7vw, 72px);
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -2px;
+    }
+
+    .label {
+      margin-top: 10px;
+      font-size: clamp(12px, 1.8vw, 18px);
+      font-weight: 400;
+      letter-spacing: 7px;
+      color: white;
+    }
+
+    .widget-info {
+      margin-top: 20px;
+      padding: 0 2px;
+    }
+
+    .title {
+      margin: 0;
+      color: #b8c2cb;
+      font-size: clamp(15px, 2vw, 21px);
+      font-weight: 500;
+    }
+
+    .date {
+      margin: 5px 0 0;
+      color: #8293a1;
+      font-size: clamp(12px, 1.5vw, 15px);
+    }
+
+    .status {
+      display: none;
+      min-height: 155px;
+      align-items: center;
+      justify-content: center;
+
+      background: #283b49;
+      border-radius: 8px;
+      color: white;
+      font-size: clamp(26px, 5vw, 48px);
+      font-weight: 700;
+      text-align: center;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 4px;
+      }
+
+      .countdown-widget {
+        padding: 10px 8px 12px;
+      }
+
+      .countdown-grid {
+        gap: 5px;
+      }
+
+      .time-card {
+        min-height: 95px;
+      }
+
+      .number {
+        font-size: clamp(28px, 10vw, 46px);
+        letter-spacing: -1px;
+      }
+
+      .label {
+        margin-top: 7px;
+        font-size: 9px;
+        letter-spacing: 2px;
+      }
+
+      .widget-info {
+        margin-top: 13px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="countdown-widget">
+    <section id="countdown" class="countdown-grid">
+      <div class="time-card days">
+        <div id="days" class="number">00</div>
+        <div class="label">DAYS</div>
+      </div>
+
+      <div class="time-card hours">
+        <div id="hours" class="number">00</div>
+        <div class="label">HOURS</div>
+      </div>
+
+      <div class="time-card minutes">
+        <div id="minutes" class="number">00</div>
+        <div class="label">MINUTES</div>
+      </div>
+
+      <div class="time-card seconds">
+        <div id="seconds" class="number">00</div>
+        <div class="label">SECONDS</div>
+      </div>
+    </section>
+
+    <section id="status" class="status">
+      Discussion Period Ended
+    </section>
+
+    <div class="widget-info">
+      <p class="title">
+        Author + Reviewer + AC Discussion Period Ends
+      </p>
+
+      <p class="date">
+        Aug 03, 2026 · Anywhere on Earth
+      </p>
+    </div>
+  </main>
+
+  <script>
+    /*
+      "Aug 03 Anywhere on Earth까지"를
+      8월 3일 하루가 완전히 끝나는 시점으로 계산합니다.
+
+      즉, 2026년 8월 4일 00:00 AoE 직전까지입니다.
+    */
+    const targetDate = new Date("2026-08-04T00:00:00-12:00");
+
+    const countdownElement = document.getElementById("countdown");
+    const statusElement = document.getElementById("status");
+
+    const daysElement = document.getElementById("days");
+    const hoursElement = document.getElementById("hours");
+    const minutesElement = document.getElementById("minutes");
+    const secondsElement = document.getElementById("seconds");
+
+    function pad(value) {
+      return String(value).padStart(2, "0");
+    }
+
+    function updateCountdown() {
+      const now = new Date();
+      const remaining = targetDate.getTime() - now.getTime();
+
+      if (remaining <= 0) {
+        countdownElement.style.display = "none";
+        statusElement.style.display = "flex";
+        return;
+      }
+
+      const days = Math.floor(remaining / (1000 * 60 * 60 * 24));
+      const hours = Math.floor(
+        (remaining / (1000 * 60 * 60)) % 24
+      );
+      const minutes = Math.floor(
+        (remaining / (1000 * 60)) % 60
+      );
+      const seconds = Math.floor(
+        (remaining / 1000) % 60
+      );
+
+      daysElement.textContent = pad(days);
+      hoursElement.textContent = pad(hours);
+      minutesElement.textContent = pad(minutes);
+      secondsElement.textContent = pad(seconds);
+    }
+
+    updateCountdown();
+    setInterval(updateCountdown, 1000);
+  </script>
+</body>
+</html>
