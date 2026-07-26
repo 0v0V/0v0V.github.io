@@ -193,7 +193,7 @@
       </p>
 
       <p class="date">
-        Jul 27, 2026 · 00:00 Anywhere on Earth
+        Jul 27, 2026 · 23:59 Anywhere on Earth
       </p>
     </div>
   </main>
@@ -201,9 +201,9 @@
   <script>
     /*
       AoE는 UTC-12입니다.
-      2026년 7월 27일 00:00 AoE
+      2026년 7월 27일 23:59 AoE (= 한국시간 7월 28일 20:59)
     */
-    const targetDate = new Date("2026-07-27T00:00:00-12:00");
+    const targetDate = new Date("2026-07-27T23:59:00-12:00");
 
     const countdownElement = document.getElementById("countdown");
     const statusElement = document.getElementById("status");

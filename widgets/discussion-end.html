@@ -193,19 +193,17 @@
       </p>
 
       <p class="date">
-        Aug 03, 2026 · Anywhere on Earth
+        Aug 03, 2026 · 23:59 Anywhere on Earth
       </p>
     </div>
   </main>
 
   <script>
     /*
-      "Aug 03 Anywhere on Earth까지"를
-      8월 3일 하루가 완전히 끝나는 시점으로 계산합니다.
-
-      즉, 2026년 8월 4일 00:00 AoE 직전까지입니다.
+      AoE는 UTC-12입니다.
+      2026년 8월 3일 23:59 AoE (= 한국시간 8월 4일 20:59)
     */
-    const targetDate = new Date("2026-08-04T00:00:00-12:00");
+    const targetDate = new Date("2026-08-03T23:59:00-12:00");
 
     const countdownElement = document.getElementById("countdown");
     const statusElement = document.getElementById("status");
