@@ -824,10 +824,18 @@ body.is-home .site-title {
   :root:not([data-theme]) .experience-item--brand[style*="#000000"] {
     --experience-color: #ffffff;
   }
+
+  :root:not([data-theme]) .experience-item--brand[style*="#004191"] {
+    --experience-color: #4d9de0;
+  }
 }
 
 :root[data-theme="dark"] .experience-item--brand[style*="#000000"] {
   --experience-color: #ffffff;
+}
+
+:root[data-theme="dark"] .experience-item--brand[style*="#004191"] {
+  --experience-color: #4d9de0;
 }
 
 .experience-org-letter {
