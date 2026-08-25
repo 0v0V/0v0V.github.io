@@ -825,8 +825,8 @@ body.is-home .site-title {
     --experience-color: #ffffff;
   }
 
-  :root:not([data-theme]) .experience-item--brand[style*="#004191"] {
-    --experience-color: #4d9de0;
+  :root:not([data-theme]) .experience-item--brand[style*="#0068b7"] {
+    --experience-color: #5cb3ee;
   }
 }
 
@@ -834,8 +834,8 @@ body.is-home .site-title {
   --experience-color: #ffffff;
 }
 
-:root[data-theme="dark"] .experience-item--brand[style*="#004191"] {
-  --experience-color: #4d9de0;
+:root[data-theme="dark"] .experience-item--brand[style*="#0068b7"] {
+  --experience-color: #5cb3ee;
 }
 
 .experience-org-letter {
