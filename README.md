@@ -15,7 +15,6 @@ All page content lives in `_data/`:
 | `_data/news.yml` | News list |
 | `_data/papers.bib` | Publications (BibTeX). `selected={true}` shows the paper on the home page |
 | `_data/education.yml` | Education timeline |
-| `_data/honors.yml` | Honors & Awards |
 | `_data/teaching.yml` | Teaching |
 | `_data/services.yml` | Academic Services |
 

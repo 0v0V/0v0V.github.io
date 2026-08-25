@@ -65,20 +65,6 @@ title: Home
   </div>
 </section>
 
-<section class="news-section" id="honors">
-  <div class="container">
-    <h2 class="section-heading">Honors &amp; Awards</h2>
-    <div class="news-list">
-      {% for item in site.data.honors %}
-      <div class="news-item">
-        <time class="news-date">{{ item.date }}</time>
-        <div class="news-text">{{ item.text | markdownify }}</div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
 <section class="detail-section" id="teaching">
   <div class="container">
     <h2 class="section-heading">Teaching</h2>
