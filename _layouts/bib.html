@@ -56,6 +56,9 @@
       {% if entry.website and entry.website != '' %}
       <a href="{{ entry.website }}" target="_blank" rel="noopener" class="pub-link">Project</a>
       {% endif %}
+      {% if entry.code and entry.code != '' %}
+      <a href="{{ entry.code }}" target="_blank" rel="noopener" class="pub-link">Code</a>
+      {% endif %}
     </div>
   </div>
 </article>
