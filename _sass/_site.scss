@@ -1284,6 +1284,12 @@ div.pub-bib {
   }
 }
 
+.cv-blurb {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin: 0 0 14px;
+}
+
 // Education sits mid-page here (not last), so give it a divider like the
 // News/Publications sections instead of the template's trailing spacing.
 .experience-section {

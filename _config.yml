@@ -36,6 +36,8 @@ exclude:
   - vendor
   - node_modules
   - images
+  # Local-only CV sources; only the built PDF in assets/cv/ is published.
+  - cv
 
 sass:
   sass_dir: _sass
