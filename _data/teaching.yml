@@ -2,7 +2,13 @@
   items:
     - title: Software Engineering
       term: Spring 2025
+      org: KHU
+      color: "#c41230"
     - title: Web/Python Programming
       term: Fall 2024
+      org: KHU
+      color: "#c41230"
     - title: Artificial Intelligence and Ethics
       term: Spring 2024
+      org: KHU
+      color: "#c41230"

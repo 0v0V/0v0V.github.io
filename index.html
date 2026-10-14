@@ -73,7 +73,7 @@ title: Home
       {% if group.role %}<h3 class="detail-group-title">{{ group.role }}</h3>{% endif %}
       <ul class="detail-list">
         {% for course in group.items %}
-        <li>{{ course.title }}{% if course.term %} <span class="term">({{ course.term }})</span>{% endif %}</li>
+        <li>{{ course.title }}{% if course.term %} <span class="term">({{ course.term }})</span>{% endif %}{% if course.org %} <span class="org"{% if course.color %} style="--org-color: {{ course.color }}"{% endif %}>@{{ course.org }}</span>{% endif %}</li>
         {% endfor %}
       </ul>
     </div>

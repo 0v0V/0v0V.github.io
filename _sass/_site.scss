@@ -1380,4 +1380,9 @@ main section {
   .term {
     color: var(--text-secondary);
   }
+
+  .org {
+    color: var(--org-color, var(--text-secondary));
+    font-weight: 600;
+  }
 }
